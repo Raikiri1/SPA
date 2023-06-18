@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Raikiri1/SPA.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Raikiri1/SPA.git/static/js/main.3b988e7a.js",
+    "static/js/787.fb33c80d.chunk.js": "/Raikiri1/SPA.git/static/js/787.fb33c80d.chunk.js",
+    "static/media/avatar.jpg": "/Raikiri1/SPA.git/static/media/avatar.ac4d461f756a776492dd.jpg",
+    "index.html": "/Raikiri1/SPA.git/index.html",
+    "main.e6c13ad2.css.map": "/Raikiri1/SPA.git/static/css/main.e6c13ad2.css.map",
+    "main.3b988e7a.js.map": "/Raikiri1/SPA.git/static/js/main.3b988e7a.js.map",
+    "787.fb33c80d.chunk.js.map": "/Raikiri1/SPA.git/static/js/787.fb33c80d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b988e7a.js"
+  ]
+}
